@@ -1,6 +1,12 @@
 # makine-ogrenmesi-icin-kucuk-notlar
 Makine öğrenmeside kullanılan teknik bilgiler için küçük ama değerli notlar
 
+Notlar
+  - [Note 1 : Güven aralığı nasıl yorumlanır?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#note-1--g%C3%BCven-aral%C4%B1%C4%9F%C4%B1-nas%C4%B1l-yorumlan%C4%B1r)
+  - [Note 2 : Merkezi Limit Teoremi ?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#note-2--merkezi-limit-teoremi-)
+  
+  
+
 ## Note 1 : Güven aralığı nasıl yorumlanır?
 Güven aralığının değeri %95 olmasının özel bir sebebi yoktur. %0 ile %100 arasında istenilen değer olabilir ancak %5 hatalı olma durumu bir şekilde öteden beri yeterli görüldüğü için tıbbı araştırmalarda %95 güven aralığı kullanılır.
 %95 güven aralığı bize en kitabi haliyle, şunu söylemektedir; çalışmayı aynı popülasyondan farklı örneklemler seçerek birçok kere tekrarlasak örneğin 1000 kere, bunların %95’inde yani 950’sinde hesaplayacağımız güven aralığı popülasyondaki gerçek sonucu içerecektir.
