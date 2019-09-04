@@ -39,3 +39,5 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 3 : Standart sapma, varyans, kovaryans ve korelasyon ?
 
+## Not 4 : ROC ?
+
