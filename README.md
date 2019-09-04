@@ -55,5 +55,5 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 10 : RMSE,MSE,MAE ?
 
-## Not 11 : Holdout ve K-fold ?
+## Not 11 : Holdout ve K-fold Cross Validation ?
 
