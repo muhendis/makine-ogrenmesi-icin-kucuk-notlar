@@ -1,6 +1,6 @@
 # Makine ogrenmesi icin küçük notlar
 Bu depo makine öğrenmesi ve veri bilimine başlamış kişilere kısa notlar şeklinde bilgiler sunulmuşur. Eğer sizinde eklemek istedikleriniz varsa bir pull request kadar uzaktasınız.
-###### ***Lisans :GNU General Public License v3.0 **
+###### ***Lisans :GNU General Public License v3.0***
 
 Notlar
   - [Not 1 : Güven aralığı nasıl yorumlanır?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#not-1--g%C3%BCven-aral%C4%B1%C4%9F%C4%B1-nas%C4%B1l-yorumlan%C4%B1r)
