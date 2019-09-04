@@ -53,3 +53,5 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 9 : Bias-Variance dan etkileri sonucu train ve test hata sonuçları ? 
 
+## Not 10 : RMSE,MSE,MAE ?
+
