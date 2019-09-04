@@ -1,5 +1,5 @@
 # Makine ogrenmesi icin küçük notlar
-Bu depo makine öğrenmesi ve veri bilimine başlamış kişilere kısa notlar şeklinde bilgiler sunulmuşur. Eğer sizinde eklemek istedikleriniz varsa bir pull request kadar uzaktasınız.
+Bu depo makine öğrenmesi ve veri bilimine başlamış kişilere kısa notlar şeklinde bilgiler sunmak için oluşturuldu. Eğer sizinde eklemek istedikleriniz varsa bir pull request kadar uzaktasınız.
 ###### ***Lisans :GNU General Public License v3.0***
 
 Notlar
