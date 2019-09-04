@@ -47,3 +47,4 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 6 : İstatistiksel dağılımlar ?
 
+## Not 7 : İstatistiksel testler ?
