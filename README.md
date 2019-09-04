@@ -18,3 +18,16 @@ Bu sonuçları yapmak istediğimiz çıkarıma göre günlük pratiğimizde 2 ş
    ***Ek : Güven aralığının alt ve üst sınırı birbirine ne kadar yakın ise yani güven aralığı ne kadar darsa tüm popülasyonu tahmin etmede o kadar başarılıyız denilebilir yani
 yukarıdaki çalışmada %95 güven aralığının sınırlarını 5 ve 7 olarak hesaplamış olsaydık, 3 ve 9 olarak hesaplanan durumdan daha iyi bir tahmin yapmış olurduk***
 [Kaynak](https://medium.com/@mehmetberktasmdmsc/guvenaraligi-d3dcca18779d)
+
+## Note1 : Merkezi Limit Teoremi ?
+
+İstatistiksel problem kontrol sürecinde süreç davranışını analiz edebilmemiz için öncelikle sürecin nasıl bir dağılım gösterdiğinin anlaşılması gerekir ve genelde bir çok problem normal dağılım özellikleri baz alınarak çözümlenir.
+
+Ancak, değişkenliklerin her zaman kontrol edilememesi ya da çıktıların her zaman çan eğrisine benzemediği durumlarda, süreçlerin modellenebilmesi kolay değildir.
+
+İşte bu aşamama Merkezi Limit teoremi bize yardımcı olmaktadır.
+
+İstatistik biliminde Merkezi Limit teoreminin çok anlamlı bir yeri vardır. Merkezi limit teoremine göre, süreç üzerinden alınan örnek sayısı artıkça ve dışarıdan bir etki olmadığı müddetçe, farklı dağılım özelliği taşıyan süreç çıktıları histogram üzerinde ortalama değer etrafında normal dağılıma yakınsar bir dağılım gösterirler.
+
+Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri olması durumlarında süreç dağılımı normal dağılıma yakınsama göstermedir. [Kaynak](https://www.leanofis.com/6-sigma/merkezi-limit-teoremi-ve-normal-dagilim.html)
+
