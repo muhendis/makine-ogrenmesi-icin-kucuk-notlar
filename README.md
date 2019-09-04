@@ -2,12 +2,12 @@
 Makine öğrenmeside kullanılan teknik bilgiler için küçük ama değerli notlar
 
 Notlar
-  - [Note 1 : Güven aralığı nasıl yorumlanır?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#note-1--g%C3%BCven-aral%C4%B1%C4%9F%C4%B1-nas%C4%B1l-yorumlan%C4%B1r)
-  - [Note 2 : Merkezi Limit Teoremi ?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#note-2--merkezi-limit-teoremi-)
+  - [Not 1 : Güven aralığı nasıl yorumlanır?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#not-1--g%C3%BCven-aral%C4%B1%C4%9F%C4%B1-nas%C4%B1l-yorumlan%C4%B1r)
+  - [Not 2 : Merkezi Limit Teoremi ?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#not-2--merkezi-limit-teoremi-)
   
   
 
-## Note 1 : Güven aralığı nasıl yorumlanır?
+## Not 1 : Güven aralığı nasıl yorumlanır?
 Güven aralığının değeri %95 olmasının özel bir sebebi yoktur. %0 ile %100 arasında istenilen değer olabilir ancak %5 hatalı olma durumu bir şekilde öteden beri yeterli görüldüğü için tıbbı araştırmalarda %95 güven aralığı kullanılır.
 %95 güven aralığı bize en kitabi haliyle, şunu söylemektedir; çalışmayı aynı popülasyondan farklı örneklemler seçerek birçok kere tekrarlasak örneğin 1000 kere, bunların %95’inde yani 950’sinde hesaplayacağımız güven aralığı popülasyondaki gerçek sonucu içerecektir.
 
@@ -25,7 +25,7 @@ Bu sonuçları yapmak istediğimiz çıkarıma göre günlük pratiğimizde 2 ş
 yukarıdaki çalışmada %95 güven aralığının sınırlarını 5 ve 7 olarak hesaplamış olsaydık, 3 ve 9 olarak hesaplanan durumdan daha iyi bir tahmin yapmış olurduk***
 [Kaynak](https://medium.com/@mehmetberktasmdmsc/guvenaraligi-d3dcca18779d)
 
-## Note 2 : Merkezi Limit Teoremi ?
+## Not 2 : Merkezi Limit Teoremi ?
 
 İstatistiksel problem kontrol sürecinde süreç davranışını analiz edebilmemiz için öncelikle sürecin nasıl bir dağılım gösterdiğinin anlaşılması gerekir ve genelde bir çok problem normal dağılım özellikleri baz alınarak çözümlenir.
 
@@ -36,4 +36,6 @@ Ancak, değişkenliklerin her zaman kontrol edilememesi ya da çıktıların her
 İstatistik biliminde Merkezi Limit teoreminin çok anlamlı bir yeri vardır. Merkezi limit teoremine göre, süreç üzerinden alınan örnek sayısı artıkça ve dışarıdan bir etki olmadığı müddetçe, farklı dağılım özelliği taşıyan süreç çıktıları histogram üzerinde ortalama değer etrafında normal dağılıma yakınsar bir dağılım gösterirler.
 
 Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri olması durumlarında süreç dağılımı normal dağılıma yakınsama göstermedir. [Kaynak](https://www.leanofis.com/6-sigma/merkezi-limit-teoremi-ve-normal-dagilim.html)
+
+## Not 3 : Standart sapma, varyans, kovaryans ve korelasyon ?
 
