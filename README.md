@@ -48,3 +48,8 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 ## Not 6 : İstatistiksel dağılımlar ?
 
 ## Not 7 : İstatistiksel testler ?
+
+## Not 8 : Bias-Variance arasındaki tradeoff?
+
+## Not 9 : Bias-Variance dan etkileri sonucu train ve test hata sonuçları ? 
+
