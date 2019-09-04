@@ -41,3 +41,6 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 4 : ROC ?
 
+## Not 5 : Hata Matrisini(Confusion Matrix) nasıl yorumlanır?
+[kaynak](http://www.datascience.istanbul/2017/07/02/hata-matrisini-confusion-matrix-yorumlama/)
+
