@@ -61,4 +61,8 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 Çoğunlukla tercih edilen yöntem Gradient Descent’tir fakat adım boyu, eşik değeri gibi durumları belirlemek zordur. Closed form da bu tarz belirlemeler olmadığı için daha kolaydır ama değişkenler arttıkça Gradient Descent’ti kullanmak daha verimli olur.[Kaynak](http://devveri.com/yapay-ogrenme/basit-lineer-regresyon)
 
+## Not 13 : Doğrusal regresyonda e(hata) ?
+
+formülo olarak e=y-ý ile bulunur. Amaç gerçek veri ile tahmin arasındaki farkı tolere etmekdir.
+
 
