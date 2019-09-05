@@ -79,5 +79,8 @@ R-squared,adj-R-squared,p-value,coef ve bu coeff in güven aralığı
 ## Not 16 : Lineer regresyon yapıldığında elde edilen değerleri nasıl formül haline  getirebiliriz ?
 örneğin => satış = intercept_value + x1_value*Reklam
 
+## Not 18 : Multiple Lineer regresyon ile temel 2 amaç nedir ? (✮)
+1- Bağımlı değişkenler ile bağımsız değişkeni tahmin etme(ana amaç)
+2- Bağımlı değişkeni tahmin etmye yarayan bağımsız değişkenlerin şiddeti ve yönüdür.(örneğin ev fiyatı tahmin ederken kaç yıllık olduğu negatif bir etki bırakırken oda sayısı ise pozitif yönde şiddetli bir etki verir )
 
 
