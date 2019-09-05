@@ -69,4 +69,7 @@ Formül olarak e=y-ý ile bulunur. Amaç gerçek veri ile tahmin arasındaki far
 
 Örneğin tahmin edilecek olan y değişkeni ile x1 arasında 0.75 olan korelasyon x2 ile de 0.65 ise ve x1 ile x2 arasındaki korelasyon 0.05 gibi düşük ise x1 'in açıklayamadığı kısımı x2 değikenini açıklar ve modelde büyük etkiye sahip olurlar diğer değişkenlere göre(diğer değişkenlerin y ile düşük kolerasyon yaptığını göz önüne alırsak)
 
+## Not 15 : Regresyonda hangi parametrelere dikkat edilmeli?
+R-squared,adj-R-squared,p-value,coef ve bu coeff in güven aralığı 
+
 
