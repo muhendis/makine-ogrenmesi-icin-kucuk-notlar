@@ -57,3 +57,8 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 11 : Holdout ve K-fold Cross Validation ?
 
+## Not 12 : Basit doğrusal regresyonda Gradient Descent Vs Closed Form ?
+
+Çoğunlukla tercih edilen yöntem Gradient Descent’tir fakat adım boyu, eşik değeri gibi durumları belirlemek zordur. Closed form da bu tarz belirlemeler olmadığı için daha kolaydır ama değişkenler arttıkça Gradient Descent’ti kullanmak daha verimli olur.[Kaynak](http://devveri.com/yapay-ogrenme/basit-lineer-regresyon)
+
+
