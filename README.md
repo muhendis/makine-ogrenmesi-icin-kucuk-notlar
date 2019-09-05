@@ -55,7 +55,7 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 10 : RMSE,MSE,MAE ?
 
-## Not 11 : Tamam modelleri rmse,mse gibi değerler ile karşılaştıra bilirim , peki müşteriye  şu rmse ile hatalı sonuç alabilirsiniz demek ne kadar doğru?
+## Not 11 : Tamam modelleri rmse,mse gibi değerler ile karşılaştıra bilirim , peki müşteriye  şu rmse ile hatalı sonuç alabilirsiniz demek ne kadar doğru? (✮)
 
 Çok güzel noktaya değinmişsiniz . Bu durumda  test verisinden her bir elamanı için oluşan hataların dağılımın çizdirip şu değerler için şu hatayı aldım örneğin test verisinin %85 inde 0.2 gibi bir hata verirken %5 ise 0.8 gibi hata alındı biz bu %5 lik veriyi inceleyeceğiz yapısal bir sorun mu yoksa başka bir neden oldu onu üzerine gideceğiz gibi bir yorum yapılabilir.
 
