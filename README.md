@@ -6,7 +6,17 @@ Notlar
   - [Not 1 : Güven aralığı nasıl yorumlanır?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#not-1--g%C3%BCven-aral%C4%B1%C4%9F%C4%B1-nas%C4%B1l-yorumlan%C4%B1r)
   - [Not 2 : Merkezi Limit Teoremi ?](https://github.com/muhendis/makine-ogrenmesi-icin-kucuk-notlar#not-2--merkezi-limit-teoremi-)
   
-  
+## Not 0 : Veri bilimi için nasıl bir yol izlenmeli ?  
+
+  0. Betimsel istatik  ve genel resim görselleştirmesi
+  1. Eksik veri incelenmesi
+  2. Aykırı değerlei inceleme
+  3. Tekrardan görselleştirme
+  4. Nitelik seçimi ve azaltımı
+  5. Tekrardan görselleştirme
+  6. Model kurulumu
+  7. Tekrardan görselleştirme
+
 
 ## Not 1 : Güven aralığı nasıl yorumlanır?
 Güven aralığının değeri %95 olmasının özel bir sebebi yoktur. %0 ile %100 arasında istenilen değer olabilir ancak %5 hatalı olma durumu bir şekilde öteden beri yeterli görüldüğü için tıbbı araştırmalarda %95 güven aralığı kullanılır.
