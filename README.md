@@ -63,6 +63,10 @@ Merkezi limit teoremi doğrultusunda, alınan örnek sayısının 30 ve üzeri o
 
 ## Not 13 : Doğrusal regresyonda e(hata) ?
 
-formülo olarak e=y-ý ile bulunur. Amaç gerçek veri ile tahmin arasındaki farkı tolere etmekdir.
+Formül olarak e=y-ý ile bulunur. Amaç gerçek veri ile tahmin arasındaki farkı tolere etmekdir.
+
+## Not 14 : Korelasyonun regresyondaki önemi ? (✮)
+
+Örneğin tahmin edilecek olan y değişkeni ile x1 arasında 0.75 olan korelasyon x2 ile de 0.65 ise ve x1 ile x2 arasındaki korelasyon 0.05 gibi düşük ise x1 'in açıklayamadığı kısımı x2 değikenini açıklar ve modelde büyük etkiye sahip olurlar diğer değişkenlere göre(diğer değişkenlerin y ile düşük kolerasyon yaptığını göz önüne alırsak)
 
 
