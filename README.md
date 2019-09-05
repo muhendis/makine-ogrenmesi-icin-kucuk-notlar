@@ -93,5 +93,8 @@ MLR uygulanarak bağımlı değişken ile bağımsız değişkenler arasında ya
 
 Bize daha doğru net bilgi verir çünkü verinin tamamını görür.
 
+## Not 21 : Aykırı değerleri neden veriden atmalıyız ?
+
+Öncelikle şunu söyleyebiliriz ki aykırı değerler o kadar kötü bir durumu temsil etmez kimi zaman yeni trendi kimi zaman ise anormallikleri belirlemede yardımcı olur fakat atma sebebimiz bu değil biz bunu algoritmaya gösterdiğimiz zaman algoritma bunu genel bir davranış olarak anlar ve tahmin etmede bu değeri kullanır , 10.000 de 1 olacak bir olay sistemni etkiler yani varyans artışı tahmin yeteneğini öldürür.
 
 
