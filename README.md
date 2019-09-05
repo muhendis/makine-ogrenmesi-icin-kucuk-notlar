@@ -72,4 +72,8 @@ Formül olarak e=y-ý ile bulunur. Amaç gerçek veri ile tahmin arasındaki far
 ## Not 15 : Regresyonda hangi parametrelere dikkat edilmeli?
 R-squared,adj-R-squared,p-value,coef ve bu coeff in güven aralığı 
 
+## Not 16 : Lineer regresyon yapıldığında elde edilen değerleri nasıl formül haline  getirebiliriz ?
+örneğin => satış = intercept_value + x1_value*Reklam
+
+
 
