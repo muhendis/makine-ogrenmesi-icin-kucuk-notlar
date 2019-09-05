@@ -89,4 +89,9 @@ R-squared,adj-R-squared,p-value,coef ve bu coeff in güven aralığı
 
 MLR uygulanarak bağımlı değişken ile bağımsız değişkenler arasında yapılan test sonucu p-value değerlerine bak çünkü anlamı bir durum olması lazımdır.Ona göre bağımsız değikenler seçip başka algoritmalarda da kullanlır.
 
+## Not 20 : Cross validation hatası veya R2 ?
+
+Bize daha doğru net bilgi verir çünkü verinin tamamını görür.
+
+
 
