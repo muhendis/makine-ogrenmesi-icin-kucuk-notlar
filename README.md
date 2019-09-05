@@ -85,4 +85,8 @@ R-squared,adj-R-squared,p-value,coef ve bu coeff in güven aralığı
 
 2- Bağımlı değişkeni tahmin etmye yarayan bağımsız değişkenlerin şiddeti ve yönüdür.(örneğin ev fiyatı tahmin ederken kaç yıllık olduğu negatif bir etki bırakırken oda sayısı ise pozitif yönde şiddetli bir etki verir )
 
+## Not 19 : Regresyon problemlerinde her zaman ilk önce Multiple Lineer regresyon uygulanmalı neden mi  ? (✮)
+
+MLR uygulanarak bağımlı değişken ile bağımsız değişkenler arasında yapılan test sonucu p-value değerlerine bak çünkü anlamı bir durum olması lazımdır.Ona göre bağımsız değikenler seçip başka algoritmalarda da kullanlır.
+
 
